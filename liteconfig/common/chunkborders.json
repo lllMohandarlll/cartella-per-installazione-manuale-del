@@ -1,0 +1,8 @@
+{
+  "radius": 2,
+  "lineRed": 1.0,
+  "lineGreen": 0.6,
+  "lineBlue": 0.0,
+  "heightSetting": "AUTO",
+  "spawnChunks": false
+}
